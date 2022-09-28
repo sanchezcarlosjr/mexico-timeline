@@ -152,7 +152,7 @@
 			},
 			"text": {
 				"headline": "Lázaro Cárdenas mueve el gobierno al socialismo.",
-				"text": "<p>Gana con 98% de los votos, restribuye 49 millones de acres creando en el proceso los ejidos (la tierra es comunal), expropia el petróleo. México no participa en la Segunda Guerra Mundial más allá del Escuadrón 201.</p>"
+				"text": "<p>Gana con 98% de los votos, restribuye 49 millones de acres creando en el proceso los ejidos (la tierra es comunal), expropia el petróleo.</p>"
 			}
 		},
 		{
@@ -169,6 +169,27 @@
 			"text": {
 				"headline": "Manuel Gómez Morín (ex-rector de la UNAM) funda el PAN.",
 				"text": "<p>Antes del PAN, el PRI era el único partido. Debido a las tendencias socialistas-marxistas y antireligiosas de Lázaro Cárdenas se funda el PAN. Este partido promueve políticas en pro de negocios, limitada intervención del gobierno y el catolismo romano. Algunos denominan a esta ideología «conservadora». Algunos de sus fundadores apoyaron al eje durante la Segunda Guerra Mundial.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "./Aztec_Eagles.jpg",
+				"caption": "Escuadrón 201",
+				"credit": "By USAAF - www.af.mil, Public Domain, https://commons.wikimedia.org/w/index.php?curid=32334343"
+			},
+			"start_date": {
+				"month": "1",
+				"day": "1",
+				"year": "1940"
+			},
+			"end_date": {
+				"month": "1",
+				"day": "1",
+				"year": "1946"
+			},
+			"text": {
+				"headline": "Con Manuel Ávila Camacho el Estado se mueve a la tecnocracia.",
+				"text": "<p>Comienza el «Milagro mexicano»: grandes negocios, grandes ciudades (no granjas o agitaciones socialistas) conducirán mover México hacia adelante. México no participa en la Segunda Guerra Mundial más allá del Escuadrón 201 (y esto fue al final de la guerra).</p>"
 			}
 		}
 
