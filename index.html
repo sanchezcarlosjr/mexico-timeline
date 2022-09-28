@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="ie=edge">
+		<title>Mexico Timeline</title>
+		<link title="timeline-styles" rel="stylesheet" href="timeline.css">
+		<script src="timeline.js"></script>
+	</head>
+	<body>
+		<div id='timeline-embed' style="width: 100%; height: 97vh;"></div>
+
+		<script type="module">
+			const timeline = await fetch('./database.json').then((database) => database.json()); 
+			const options = {
+			  	hash_bookmark: true,    
+				font: "roboto-megrim" 
+			};
+			window.timeline = new TL.Timeline('timeline-embed', timeline, options);
+		</script>
+	</body>
+</html>
