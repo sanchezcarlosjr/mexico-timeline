@@ -1,13 +1,14 @@
 {
 	"title": {
 		"media": {
-			"url": "./ai-system.jpg",
-			"caption": "AI System",
-			"credit": "wandb/<a href='https://wandb.ai/telidavies/ml-news/reports/Craiyon-Image-Generator-From-Text-Online-Demo-formerly-DALL-E-Mini---VmlldzoyMTY5Nzk5'>Craiyon</a>"
+			"url": "./banderas-mexico.jpg",
+			"caption": "Historia de México",
+			"credit": "Banco del Bienestar, S. N. d. C. (2022, September 28). Historia de la bandera de México. Retrieved from https://www.gob.mx/bancodelbienestar/articulos/historia-de-la-bandera-de-mexico?idiom=es"
 		},
+		"unique_id": "d8ce68eca51d3307fc5244996fc8a234",
 		"text": {
-			"headline": "Aritificial Intelligence <br/> 2000-2022",
-			"text": "<p>AI is one of the most elsuive subjects in Computer Science. Our advances in past two decades was chienfly about specialized IA. </p>"
+			"headline": "Historia de México <br/> 1900-2000",
+			"text": "<p>La historia de México con enfoque en cuestiones sociales, económicas y tecnólogicas por Carlos Eduardo Sanchez Torres</p>"
 		}
 	},
 	"events": [
@@ -25,151 +26,6 @@
 			"text": {
 				"headline": "Why the Future Doesn't Need Us?",
 				"text": "<p>Our most powerful 21st-century technologies: robotics, genetic engineering, and nanotech are threatening to make humans an endangered species. B. Joy, “Why the Future Doesn’t Need Us,” WIRED, Apr. 2000. [Online]. Available: https://www.wired.com/2000/04/joy-2/. [Accessed: Aug. 25, 2022] </p>"
-			}
-		},
-		{
-			"media": {
-				"url": "./First_order_natural_deduction.png",
-				"caption": "First order natural deduction.",
-				"credit": "https://commons.wikimedia.org/wiki/File:First_order_natural_deduction.png"
-			},
-			"start_date": {
-				"month": "4",
-				"day": "9",
-				"year": "2001"
-			},
-			"text": {
-				"headline": "First-order logic",
-				"text": "<p>Logic and computer science; fields who cannot be separated. These years is about make intelligent agents by logic and probalistic theory.  Halpern, J., Harper, R., Immerman, N., Kolaitis, P. G., Vardi, M. & Vianu, V., 2001, “On the Unusual Effectiveness of Logic in Computer Science,” The Bulletin of Symbolic Logic, 7.2: 213–236. Pollock, J., 2001, “Defeasible Reasoning with Variable Degrees of Justification,” Artificial Intelligence, 133, 233–282. Amir, E. & Maynard-Reid, P., 2001, “LiSA: A Robot Driven by Logical Subsumption,” in Proceedings of the Fifth Symposium on the Logical Formalization of Commonsense Reasoning, (New York, NY). https://plato.stanford.edu/entries/artificial-intelligence/</p>"
-			}
-		},
-		{
-			"media": {
-				"url": "./Iphone-iphone3g-colors.jpg",
-				"caption": "Iphone 1.",
-				"credit": "https://commons.wikimedia.org/wiki/File:Iphone-iphone3g-colors.jpg"
-			},
-			"start_date": {
-				"month": "4",
-				"day": "9",
-				"year": "2007"
-			},
-			"text": {
-				"headline": "Smartphones arrived",
-				"text": "<p>Smartphones allow big data. AI weak are with us. “OpenMind,” OpenMind, 2019. [Online]. Available: https://www.bbvaopenmind.com/en/articles/the-past-decade-and-future-of-ais-impact-on-society/. [Accessed: Aug. 25, 2022] </p>"
-			}
-		},
-{
-			"media": {
-				"url": "./robots-steal-your-job.jpg",
-				"caption": "Will robots steal your job?",
-				"credit": "https://www.slate.com/articles/technology/robot_invasion/2011/09/will_robots_steal_your_job.html"
-			},
-			"start_date": {
-				"month": "4",
-				"day": "9",
-				"year": "2011"
-			},
-			"text": {
-				"headline": "Will Robots Steal Your Job?",
-				"text": "<p>Whatever your situation, you should be afraid. http://www.facebook.com/farhad.manjoo, “Will robots steal your job? If you’re highly educated, you should still be afraid.,” Slate Magazine, 2011. [Online]. Available: https://www.slate.com/articles/technology/robot_invasion/2011/09/will_robots_steal_your_job.html. [Accessed: Aug. 25, 2022]</p>"
-			}
-		},
-		{
-			"media": {
-				"url": "./Scheme-of-the-AlexNet-network-used.png",
-				"caption": "AlexNext",
-				"credit": "https://www.researchgate.net/figure/Scheme-of-the-AlexNet-network-used_fig1_320052364"
-			},
-			"start_date": {
-				"month": "4",
-				"day": "9",
-				"year": "2012"
-			},
-			"text": {
-				"headline": "A milostone in the history of deep learning: ImageNet",
-				"text": "<p>In the competition ImageNet,  Alex Krizhevsky, Ilya Sutskever and Krizhevsky made accurate predictions of the objects suchas as cats and faces. “OpenMind,” OpenMind, 2019. [Online]. Available: https://www.bbvaopenmind.com/en/articles/the-past-decade-and-future-of-ais-impact-on-society/. [Accessed: Aug. 25, 2022] </p>"
-			}
-		},
-{
-			"media": {
-				"url": "./gan.png",
-				"caption": "GAN",
-				"credit": "https://www.researchgate.net/figure/Scheme-of-the-AlexNet-network-used_fig1_320052364"
-			},
-			"start_date": {
-				"month": "4",
-				"day": "9",
-				"year": "2014"
-			},
-			"text": {
-				"headline": "Generative Adversial Networks",
-				"text": "Genetive Adversial Networks was introduced in 2014. Sagar, “A Decade Of AI: Most Defining Moments 2010-20,” Analytics India Magazine, Jan. 05, 2021. [Online]. Available: https://analyticsindiamag.com/ai-top-decade-2010-2020-breakthroughs/. [Accessed: Aug. 25, 2022]"
-			}
-		},
-
-		{
-			"media": {
-				"url": "./tf_logo_social.png",
-				"caption": "Tensorflow",
-				"credit": "https://www.researchgate.net/figure/Scheme-of-the-AlexNet-network-used_fig1_320052364"
-			},
-			"start_date": {
-				"month": "4",
-				"day": "9",
-				"year": "2015"
-			},
-			"text": {
-				"headline": "Open source library to make machine learning models",
-				"text": "TensorFlow and Pytorch were open-sourced by Google and Facebook respectly.  R. Sagar, “A Decade Of AI: Most Defining Moments 2010-20,” Analytics India Magazine, Jan. 05, 2021. [Online]. Available: https://analyticsindiamag.com/ai-top-decade-2010-2020-breakthroughs/. [Accessed: Aug. 25, 2022]"
-			}
-		},
-		{
-			"media": {
-				"url": "./A14-BIONIC-Apple.jpg",
-				"caption": "AI hardware",
-				"credit": "https://www.researchgate.net/figure/Scheme-of-the-AlexNet-network-used_fig1_320052364"
-			},
-			"start_date": {
-				"month": "4",
-				"day": "9",
-				"year": "2015"
-			},
-			"text": {
-				"headline": "Companies make AI hardware",
-				"text": "Since backprogration is hard, companies like Apple deploy AI Bionic, NVIDIA Jetson AGX Xavier developer kit, and Google's Coral kit. Sagar, “A Decade Of AI: Most Defining Moments 2010-20,” Analytics India Magazine, Jan. 05, 2021. [Online]. Available: https://analyticsindiamag.com/ai-top-decade-2010-2020-breakthroughs/. [Accessed: Aug. 25, 2022]"
-			}
-		},
-		{
-			"media": {
-				"url": "./openai.jpg",
-				"caption": "OpenAI.",
-				"credit": "https://medium.datadriveninvestor.com/dactyl-the-robot-a-step-towards-artificial-general-intelligence-e2a57eacf9c"
-			},
-			"start_date": {
-				"month": "07",
-				"day": "30",
-				"year": "2018"
-			},
-			"text": {
-				"headline": "A step to Strong Artificial Intelligence",
-				"text": "<p>OpenAI trained a robot like an human to manipulate a physical object such as Rubik's Cube. [1] Marcin Andrychowicz, “Learning Dexterity,” OpenAI, Jul. 30, 2018. [Online]. Available: https://openai.com/blog/learning-dexterity/. [Accessed: Aug. 25, 2022]</p>"
-			}
-		},
-		{
-			"media": {
-				"url": "./Artificial_Intelligence-_A_Modern_Approach.jpg",
-				"caption": "Artificial Intelligence. A modern approach.",
-				"credit": "http://aima.cs.berkeley.edu/"
-			},
-			"start_date": {
-				"month": "28",
-				"day": "4",
-			        "year": "2020"
-			},
-			"text": {
-				"headline": "Artificial Intelligence: A Modern Approach 4th edition was released. ",
-				"text": "<p>A new edition for the foundational book was released; authors have added Deep Learning and Reinforcement Learning. [1] “Artificial Intelligence: A Modern Approach, 4th US ed.,” Berkeley.edu, 2022. [Online]. Available: http://aima.cs.berkeley.edu/. [Accessed: Aug. 25, 2022] </p>"
 			}
 		}
 	]

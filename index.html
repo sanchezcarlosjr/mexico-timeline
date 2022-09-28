@@ -15,6 +15,7 @@
 			const timeline = await fetch('./database.json').then((database) => database.json()); 
 			const options = {
 			  	hash_bookmark: true,    
+				language: 'es',
 				font: "roboto-megrim" 
 			};
 			window.timeline = new TL.Timeline('timeline-embed', timeline, options);
