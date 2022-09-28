@@ -77,6 +77,23 @@
 		},
 		{
 			"media": {
+				"url": "./today.jpg",
+				"caption": "Mexico Today and Tomorrow. Diego Rivera.",
+				"credit": ""
+			},
+			"start_date": {
+				"month": "10",
+				"day": "3",
+				"year": "1921"
+			},
+			"text": {
+				"headline": "Fundación de la SEP.",
+				"text": "El José Vasconcelos Calderón «el caudillo cultural» fue el primer secretario de la SEP y sexto rector de la UNAM."
+			}
+		},
+
+		{
+			"media": {
 				"url": "./cristeros.jpg",
 				"caption": "Guerra cristera.",
 				"credit": "Cristeros. (2021, November 11). Retrieved from https://inside.sfuhs.org/dept/history/Mexicoreader/Chapter6/cristeros.htm"
@@ -114,7 +131,7 @@
 			},
 			"text": {
 				"headline": "Partido Revolucionario Institucional.",
-				"text": "<p>Plutarco Elías Calles fundó el PRI en 1929 y los 3 poderes fueron de este partido desde 1929 a 2000. Mario Vargas describió está situación como «la dictadura perfecta». El personalismo comienza.</p>"
+				"text": "<p>Plutarco Elías Calles fundó el PRI en 1929 y los 3 poderes fueron de este partido desde 1929 a 2000. Mario Vargas describió está situación como «la dictadura perfecta». El personalismo comienza. En general, no podemos decir que dicho partido tenga alguna ideología que pertanezca en el tiempo.</p>"
 			}
 		},
 		{
@@ -135,7 +152,23 @@
 			},
 			"text": {
 				"headline": "Lázaro Cárdenas mueve el gobierno al socialismo.",
-				"text": "<p>Gana con 98% de los votos, restribuye 49 millones de acres creando en el proceso los ejidos (la tierra es comunal).</p>"
+				"text": "<p>Gana con 98% de los votos, restribuye 49 millones de acres creando en el proceso los ejidos (la tierra es comunal), expropia el petróleo. México no participa en la Segunda Guerra Mundial más allá del Escuadrón 201.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "./Manuel_Gomez_Morin.jpg",
+				"caption": "Manuel Gomez Morin",
+				"credit": "By Gustavo Benítez (Presidencia de la República) - http://fuente.presidencia.gob.mx/archivos/2/6/7/9/art/fotos/grande/wumiwi76.jpg, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1041414"
+			},
+			"start_date": {
+				"month": "1",
+				"day": "1",
+				"year": "1939"
+			},
+			"text": {
+				"headline": "Manuel Gómez Morín (ex-rector de la UNAM) funda el PAN.",
+				"text": "<p>Antes del PAN, el PRI era el único partido. Debido a las tendencias socialistas-marxistas y antireligiosas de Lázaro Cárdenas se funda el PAN. Este partido promueve políticas en pro de negocios, limitada intervención del gobierno y el catolismo romano. Algunos denominan a esta ideología «conservadora». Algunos de sus fundadores apoyaron al eje durante la Segunda Guerra Mundial.</p>"
 			}
 		}
 
