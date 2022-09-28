@@ -8,26 +8,95 @@
 		"unique_id": "d8ce68eca51d3307fc5244996fc8a234",
 		"text": {
 			"headline": "Historia de México <br/> 1900-2000",
-			"text": "<p>La historia de México con enfoque en cuestiones sociales, económicas y tecnólogicas por Carlos Eduardo Sanchez Torres</p>"
+			"text": "<p>La historia de México con enfoque en cuestiones sociales, económicas y tecnólogicas por Carlos Eduardo Sánchez Torres.</p>"
 		}
 	},
 	"events": [
 		{
 			"media": {
-				"url": "./bill-joy.jpg",
-				"caption": "Bill Joy.",
-				"credit": "Bill Joy photo: <a href='https://www.ted.com/speakers/bill_joy'>Ted</a>"
+				"url": "./Kansas_City,_Mexico_and_Orient_Railway_with_Hawley_lines.jpg",
+				"caption": "Kansas City, Mexico and Orient Railway desde 1900 a 1928.",
+				"credit": "Wikipedia"
 			},
 			"start_date": {
-				"month": "4",
-				"day": "9",
+				"month": "1",
+				"day": "1",
+				"year": "1900"
+			},
+			"end_date": {
+				"month": "5",
+				"day": "25",
+				"year": "1911"
+			},
+			"text": {
+				"headline": "Porfiriato: Orden y Progreso",
+				"text": "<p>El Porfiato duró de 1876–1911. Estabilidad económica, expansión de la red de telegrafos y ferrocaril.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "./mexico-history.jpg",
+				"caption": "Desde la conquista a 1930. Diego Rivera.",
+				"credit": "Annotated image of the west wall: Diego Rivera, “From the Conquest to 1930,” History of Mexico murals, 1929–30, fresco, Palacio Nacional, Mexico City (photo: drkgk). Khan Academy."
+			},
+			"start_date": {
+				"month": "1",
+				"day": "1",
+				"year": "1911"
+			},
+			"end_date": {
+				"month": "1",
+				"day": "1",
+				"year": "1920"
+			},
+			"text": {
+				"headline": "Revolución mexicana.",
+				"text": "<p>Conflicto que inició contra el presidente de México Porfirio Díaz por diversos grupos con intereses diversos como volver a México una democracia de facto, los horarios de trabajo, la posesión de tierras por los campesinos, los Estados Unidos con sus intervenciones seguiendo la doctrina Monroe... La revolución devoró a sus hijos y se escribió la actual constitución mexicana.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "./today.jpg",
+				"caption": "Mexico Today and Tomorrow. Diego Rivera.",
+				"credit": "Annotated image of the south wall: Diego Rivera, “Mexico Today and Tomorrow,” History of Mexico murals, 1935, fresco, Palacio Nacional, Mexico City (photo: Cbl62, CC0)"
+			},
+			"start_date": {
+				"month": "1",
+				"day": "1",
+				"year": "1920"
+			},
+			"end_date": {
+				"month": "1",
+				"day": "1",
+				"year": "1940"
+			},
+			"text": {
+				"headline": "Consolidación de la revolución mexicana.",
+				"text": "<p>Generales sirvieron como presidentes: Álvaro Obregón (1920–24), Plutarco Elías Calles (1924–28), Lázaro Cárdenas (1934–40), y Manuel Avila Camacho (1940–46). Primera transferencia pacífica del poder ejecutivo desde 1884 ocurrió entre Álvaro Obregón y Plutarco Elías Calles."
+			}
+		},
+		{
+			"media": {
+				"url": "./Plutarco_Calles-TIME-1924.jpg",
+				"caption": "Plutarco en la revista Times.",
+				"caption": "Wikipedia"
+			},
+			"start_date": {
+				"month": "1",
+				"day": "1",
+				"year": "1929"
+			},
+			"end_date": {
+				"month": "1",
+				"day": "1",
 				"year": "2000"
 			},
 			"text": {
-				"headline": "Why the Future Doesn't Need Us?",
-				"text": "<p>Our most powerful 21st-century technologies: robotics, genetic engineering, and nanotech are threatening to make humans an endangered species. B. Joy, “Why the Future Doesn’t Need Us,” WIRED, Apr. 2000. [Online]. Available: https://www.wired.com/2000/04/joy-2/. [Accessed: Aug. 25, 2022] </p>"
+				"headline": "Partido Revolucionario Institucional.",
+				"text": "<p>Plutarco Elías Calles fundó el PRI en 1929 y los 3 poderes fueron de este partido desde 1929 a 2000. La dictadura perfecta según Mario Vargas.</p>"
 			}
 		}
+
 	]
 }
 
