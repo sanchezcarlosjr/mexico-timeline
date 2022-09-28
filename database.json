@@ -30,7 +30,7 @@
 			},
 			"text": {
 				"headline": "Porfiriato: Orden y Progreso",
-				"text": "<p>El Porfiato duró de 1876–1911. Estabilidad económica, expansión de la red de telegrafos y ferrocaril.</p>"
+				"text": "<p>Porfirio Díaz gobernó desde 1876 a 1911. Estabilidad económica, expansión de la red de telegrafos y ferrocaril. «Pobre México, tan lejos de Dios y tan cerca de Estados Unidos» por Díaz</p>"
 			}
 		},
 		{
@@ -77,9 +77,30 @@
 		},
 		{
 			"media": {
+				"url": "./cristeros.jpg",
+				"caption": "Guerra cristera.",
+				"credit": "Cristeros. (2021, November 11). Retrieved from https://inside.sfuhs.org/dept/history/Mexicoreader/Chapter6/cristeros.htm"
+			},
+			"start_date": {
+				"month": "7",
+				"day": "1",
+				"year": "1926"
+			},
+			"end_date": {
+				"month": "6",
+				"day": "21",
+				"year": "1929"
+			},
+			"text": {
+				"headline": "La rebelión cristera.",
+				"text": "<p>Cierta parte de la población con creencias católica romanas respondieron por las medidas anti-clericales por la ley de Calles sobre el artículo 130 de la constitución.</p>"
+			}
+		},
+		{
+			"media": {
 				"url": "./Plutarco_Calles-TIME-1924.jpg",
 				"caption": "Plutarco en la revista Times.",
-				"caption": "Wikipedia"
+				"credit": "Wikipedia"
 			},
 			"start_date": {
 				"month": "1",
@@ -93,10 +114,30 @@
 			},
 			"text": {
 				"headline": "Partido Revolucionario Institucional.",
-				"text": "<p>Plutarco Elías Calles fundó el PRI en 1929 y los 3 poderes fueron de este partido desde 1929 a 2000. La dictadura perfecta según Mario Vargas.</p>"
+				"text": "<p>Plutarco Elías Calles fundó el PRI en 1929 y los 3 poderes fueron de este partido desde 1929 a 2000. Mario Vargas describió está situación como «la dictadura perfecta». El personalismo comienza.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "./Lazaro_Cardenas_Jijilpan.JPG",
+				"caption": "Lázaro Cárdenas",
+				"credit": "Jujomx, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+			},
+			"start_date": {
+				"month": "1",
+				"day": "1",
+				"year": "1934"
+			},
+			"end_date": {
+				"month": "1",
+				"day": "1",
+				"year": "1940"
+			},
+			"text": {
+				"headline": "Lázaro Cárdenas mueve el gobierno al socialismo.",
+				"text": "<p>Gana con 98% de los votos, restribuye 49 millones de acres creando en el proceso los ejidos (la tierra es comunal).</p>"
 			}
 		}
 
 	]
 }
-
