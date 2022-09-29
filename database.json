@@ -35,6 +35,23 @@
 		},
 		{
 			"media": {
+				"url": "./unam.png",
+				"caption": "UNAM.",
+				"credit": "Wikipedia"
+			},
+			"start_date": {
+				"month": "9",
+				"day": "22",
+				"year": "1910"
+			},
+			"text": {
+				"headline": "Justo Sierra (uno de los científicos de Porfirio Díaz) funda la UNAM",
+			        "text": "La UNAM gana autonomía hasta 1929.  Elizalde, Guadalupe, Piedras en el Camino de la UNAM, EDAMEX, 1999 p.49."
+			}
+		},
+
+		{
+			"media": {
 				"url": "./mexico-history.jpg",
 				"caption": "Desde la conquista a 1930. Diego Rivera.",
 				"credit": "Annotated image of the west wall: Diego Rivera, “From the Conquest to 1930,” History of Mexico murals, 1929–30, fresco, Palacio Nacional, Mexico City (photo: drkgk). Khan Academy."
@@ -91,7 +108,6 @@
 				"text": "El José Vasconcelos Calderón «el caudillo cultural» fue el primer secretario de la SEP y sexto rector de la UNAM."
 			}
 		},
-
 		{
 			"media": {
 				"url": "./cristeros.jpg",
@@ -110,7 +126,7 @@
 			},
 			"text": {
 				"headline": "La rebelión cristera.",
-				"text": "<p>Cierta parte de la población con creencias católica romanas respondieron por las medidas anti-clericales por la ley de Calles sobre el artículo 130 de la constitución.</p>"
+				"text": "<p>Cierta parte de la población con creencias católica romanas respondieron por las medidas anti-clericales por la ley de Calles sobre el artículo 130 de la constitución. Cristeros. (2021, November 11). Retrieved from https://inside.sfuhs.org/dept/history/Mexicoreader/Chapter6/cristeros.htm</p>"
 			}
 		},
 		{
@@ -152,7 +168,23 @@
 			},
 			"text": {
 				"headline": "Lázaro Cárdenas mueve el gobierno al socialismo.",
-				"text": "<p>Gana con 98% de los votos, restribuye 49 millones de acres creando en el proceso los ejidos (la tierra es comunal), expropia el petróleo.</p>"
+				"text": "<p>Gana con 98% de los votos, restribuye 49 millones de acres creando en el proceso los ejidos (la tierra es comunal), expropia el petróleo (crea PEMEX).Primer gobierno en durar un sexenio.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "./ESCOM_Mural.jpg",
+				"caption": "IPN ESCOM Mural",
+				"credit": "Aaha, Public domain, via Wikimedia Commons"
+			},
+			"start_date": {
+				"month": "1",
+				"day": "1",
+				"year": "1936"
+			},
+			"text": {
+				"headline": "Lázaro Cárdenas funda el IPN.",
+				"text": "No es autónoma. El presidente de la República elige al directo general."
 			}
 		},
 		{
@@ -189,7 +221,164 @@
 			},
 			"text": {
 				"headline": "Con Manuel Ávila Camacho el Estado se mueve a la tecnocracia.",
-				"text": "<p>Comienza el «Milagro mexicano»: grandes negocios, grandes ciudades (no granjas o agitaciones socialistas) conducirán mover México hacia adelante. México no participa en la Segunda Guerra Mundial más allá del Escuadrón 201 (y esto fue al final de la guerra).</p>"
+				"text": "<p>Comienza el «Milagro mexicano»: grandes negocios, grandes ciudades (no granjas o agitaciones socialistas) conducirán mover México hacia adelante. México no participa en la Segunda Guerra Mundial más allá del Escuadrón 201 (y esto fue al final de la guerra). El Estado (el ejecutivo) suele apegarse a la doctina Estrada. México no suele ser relevante en la escena geopolítica. Miguel Alemán fue el primer presidente civil.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "./1943–44_Mexican_Primera_Division_season.png",
+				"caption": "Localizaciones de equipos",
+				"credit": "Wikipedia"
+			},
+			"start_date": {
+				"month": "1",
+				"day": "1",
+				"year": "1943"
+			},
+			"end_date": {
+				"month": "12",
+				"day": "12",
+				"year": "1944"
+			},
+			"text": {
+				"headline": "Primera temporada del fútbol en primera división.",
+				"text": "Asturias ganó el primer campeonato."
+			}
+		},
+		{
+			"media": {
+				"url": "./Coat_of_arms_of_Baja_California.svg.png",
+				"caption": "Baja California emblema",
+				"credit": "Wikipedia"
+			},
+			"start_date": {
+				"month": "1",
+				"day": "1",
+				"year": "1952"
+			},
+			"text": {
+				"headline": "Baja California a estado de la República.",
+				"text": "Baja California de territorio a estado."
+			}
+		},	
+		{
+			"media": {
+				"url": "./1968Mexico_emblem.svg.png",
+				"caption": "Emblema de las Olimpiadas de 1968",
+				"credit": "By IOC / Olympic Museum Collections - http://www.olympic.org/uk/games/past/collector_uk.asp?type=5&amp;id=18&amp;OLGT=1&amp;OLGY=1968doc.rero.ch/record/257180/files/The_historic_olympic_collection_style_guide.pdf, Public Domain, https://commons.wikimedia.org/w/index.php?curid=16397792"
+			},
+			"start_date": {
+				"month": "10",
+				"day": "12",
+				"year": "1968"
+			},
+			"text": {
+				"headline": "México organiza las Olimpiadas.",
+				"text": "México participa en las Olimpiadas desde 1900. La organización de Díaz Ordaz organiza las Olimpiadas. Primera Olimpiada en ser televisada a color."
+			}
+		},	
+		{
+			"media": {
+				"url": "./tres_culturas.jpg",
+				"caption": "Tres culturas",
+				"credit": "By Ralf Roletschek - Own work, GFDL 1.2, https://commons.wikimedia.org/w/index.php?curid=42544094"
+			},
+			"start_date": {
+				"month": "10",
+				"day": "2",
+				"year": "1968"
+			},
+			"text": {
+				"headline": "La masacre de Tlatelolco",
+				"text": "<p>Hoy en día, es ampliamente aceptado que el gobierno inicio fuego contra los estudiantes. Fue el inicio de la guerra sucia, que fue parte de los presidentes  Gustavo Díaz Ordaz, Luis Echeverría y José López Portillo para apoyar a Estados Unidos en sus movimientos en la región: operaciones Cóndor e Intercepción.</p>"
+			}
+		},	
+		{
+			"media": {
+				"url": "./nixon.jpg",
+				"caption": "Richard Nixon",
+				"credit": "File:Richard Nixon presidential portrait (1).jpg - Wikipedia. (2022, September 28). Retrieved from https://en.wikipedia.org/wiki/File:Richard_Nixon_presidential_portrait_(1).jpg"
+			},
+			"start_date": {
+				"month": "12",
+				"day": "31",
+				"year": "1969"
+			},
+			"text": {
+				"headline": "Las drogas son ilegales.",
+				"text": " Vulliamy, Ed. Amexica: War Along the Borderline. New York: Farrar, Straus and Giroux, 2010. "
+			}
+		},
+		{
+			"media": {
+				"url": "./states-of-mexico-map.webp",
+				"caption": "México actualmente",
+				"credit": "Wikipedia"
+			},
+			"start_date": {
+				"month": "10",
+				"day": "8",
+				"year": "1974"
+			},
+			"text": {
+				"headline": "Quintana Roo a estado de la República.",
+				"text": "Quintana Roo de territorio a Estado Libre y Soberano de Quintana Roo."
+			}
+		},
+		{
+			"media": {
+				"url": "./maquiladora.jpg",
+				"caption": "Maquiladora",
+				"credit": "Crisis Juarez. (2022, September 28). Retrieved from https://crisisjuarez.wordpress.com"
+			},
+			"start_date": {
+				"month": "1",
+				"day": "1",
+				"year": "1980"
+			},,
+			"end_date": {
+				"month": "1",
+				"day": "1",
+				"year": "1990"
+			},
+			"text": {
+				"headline": "Modelo de Maquiladoras.",
+				"text": "El modelo de maquiladoras se inicia en México."
+			}
+		},
+		{
+			"media": {
+				"url": "./1985_Mexico_Earthquake_-_Collapsed_General_Hospital.jpg",
+				"caption": "1985 Ciudad de México terremoto",
+				"credit": "By United States Geological Survey - http://libraryphoto.cr.usgs.gov/cgi-bin/show_picture.cgi?ID=ID.%20Celebi,%20M.%20%203ct&amp;SIZE=large, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6573465"
+			},
+			"start_date": {
+				"month": "9",
+				"day": "19",
+				"year": "1985"
+			},
+			"text": {
+				"headline": "Terremoto en la Ciudad de México"
+			}
+		},
+		{
+			"media": {
+				"url": "./Harvard_shield_wreath.svg.png",
+				"caption": "Tecnocracia",
+				"credit": "File:Harvard shield wreath.svg - Wikipedia. (2022, September 14). Retrieved from https://en.wikipedia.org/w/index.php?title=File:Harvard_shield_wreath.svg&oldid=1029242097"
+			},
+			"start_date": {
+				"month": "1",
+				"day": "1",
+				"year": "1988"
+			},
+			"end_date": {
+				"month": "1",
+				"day": "1",
+				"year": "2000"
+			},
+			"text": {
+				"headline": "La tecnocracia, el neoliberalismo (Consenso de Washington), crisis del 1992, se firma NAFTA. ELZN inicia. Se liberaliza la banca y TELMEX (ITESM estebleció la primera conexión a Internet en 1989 y a finales de 1990 a todo México a tráves de Telmex). The Salinas Solution : Can President Carlos Salinas, With His Harvard Ph.D. and His Free-Market Ideas, Make Mexico Work? (1990, November 25). Retrieved from https://www.latimes.com/archives/la-xpm-1990-11-25-tm-7530-story.html"
 			}
 		}
 
