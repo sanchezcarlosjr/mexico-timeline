@@ -11,8 +11,7 @@
 			"text": "<p>La historia de México con enfoque en cuestiones sociales, económicas y tecnólogicas por Carlos Eduardo Sánchez Torres.</p>"
 		}
 	},
-	"events": [
-		{
+	"events": [{
 			"media": {
 				"url": "./Kansas_City,_Mexico_and_Orient_Railway_with_Hawley_lines.jpg",
 				"caption": "Kansas City, Mexico and Orient Railway desde 1900 a 1928.",
@@ -46,7 +45,7 @@
 			},
 			"text": {
 				"headline": "Justo Sierra (uno de los científicos de Porfirio Díaz) funda la UNAM",
-			        "text": "La UNAM gana autonomía hasta 1929.  Elizalde, Guadalupe, Piedras en el Camino de la UNAM, EDAMEX, 1999 p.49."
+				"text": "La UNAM gana autonomía hasta 1929.  Elizalde, Guadalupe, Piedras en el Camino de la UNAM, EDAMEX, 1999 p.49."
 			}
 		},
 
@@ -260,7 +259,7 @@
 				"headline": "Baja California a estado de la República.",
 				"text": "Baja California de territorio a estado."
 			}
-		},	
+		},
 		{
 			"media": {
 				"url": "./1968Mexico_emblem.svg.png",
@@ -276,7 +275,7 @@
 				"headline": "México organiza las Olimpiadas.",
 				"text": "México participa en las Olimpiadas desde 1900. La organización de Díaz Ordaz organiza las Olimpiadas. Primera Olimpiada en ser televisada a color."
 			}
-		},	
+		},
 		{
 			"media": {
 				"url": "./tres_culturas.jpg",
@@ -292,7 +291,7 @@
 				"headline": "La masacre de Tlatelolco",
 				"text": "<p>Hoy en día, es ampliamente aceptado que el gobierno inicio fuego contra los estudiantes. Fue el inicio de la guerra sucia, que fue parte de los presidentes  Gustavo Díaz Ordaz, Luis Echeverría y José López Portillo para apoyar a Estados Unidos en sus movimientos en la región: operaciones Cóndor e Intercepción.</p>"
 			}
-		},	
+		},
 		{
 			"media": {
 				"url": "./nixon.jpg",
@@ -335,7 +334,7 @@
 				"month": "1",
 				"day": "1",
 				"year": "1980"
-			},,
+			},
 			"end_date": {
 				"month": "1",
 				"day": "1",
